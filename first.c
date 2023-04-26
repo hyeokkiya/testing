@@ -1,7 +1,6 @@
-# testing
-
 #include <stdio.h>
 
 int main(void) {
-  printf("hello");
+  printf("uhdhdhdh");
+  return 0;
 }
